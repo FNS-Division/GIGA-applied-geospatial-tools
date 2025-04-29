@@ -1,0 +1,21 @@
+name: inframaptraining
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.11
+  - geopandas=1.0.1
+  - numpy=2.2.0
+  - pandas=2.2.3
+  - pandana=0.7
+  - plotly=5.24.1
+  - pycountry=24.6.1
+  - seaborn=0.13.2
+  - osmnx=2.0.0
+  - scikit-learn=1.6.0
+  - scipy=1.14.1
+  - shapely=2.0.6
+  - pip
+  - pip:
+    - python-srtm==0.6.0
+    - contextily==1.6.2
