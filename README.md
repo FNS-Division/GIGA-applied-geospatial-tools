@@ -8,9 +8,9 @@
 
 Training materials for an ITU course provided as part of the following event focusing on network infrastructure analysis and planning:
 
-[Infrastructure mapping for school connectivity](https://academy.itu.int/training-courses/full-catalogue/infrastructure-mapping-school-connectivity), Geneva – Switzerland, 27-28 February 2025
+[Applied geospatial tools for school connectivity](https://academy.itu.int/training-courses/full-catalogue/applied-geospatial-tools-school-connectivity), Geneva – Switzerland, 19-24 May 2025
 
-<a href="https://ibb.co/yW090yp"><img src="https://i.ibb.co/4PWqWT2/windhoek-fiber.png" alt="windhoek-fiber" border="0"></a>
+<a href="https://ibb.co/yW090yp"><img src="img/output_radiolinks.png" alt="manaus-radio-links" border="0" width="50%"></a>
 
 _Figure: Fiber path simulation in Windhoek, Namibia_
 
