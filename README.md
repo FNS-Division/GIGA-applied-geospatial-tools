@@ -94,7 +94,7 @@ Each source has been chosen to provide reliable, up-to-date information while be
 - **Day 3: Site visit to Swiss Federal Technology Institute of Lausanne (EPFL), Lausanne**
 
 - **Day 4: Group work, GIGA Connectivity Centre, Geneva**
-    - Proposal submission: small groups (3-4 people) to prepare proposals for group work to be carried out over Days 4 and 5.
+    - [Proposal submission 🔗](https://docs.google.com/document/d/1AoPMfhIKJsJqJiiIF0pZB9o8htWWzjXp0L3uAerMi14/edit?usp=drive_link): small groups (3-4 people) to prepare proposals for group work to be carried out over Days 4 and 5.
     - Group work
 
 - **Day 5 (half-day): Group work, GIGA Connectivity Centre, Geneva**
