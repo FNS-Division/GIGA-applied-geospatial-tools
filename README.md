@@ -99,7 +99,7 @@ Each source has been chosen to provide reliable, up-to-date information while be
 
 - **Day 5 (half-day): Group work, GIGA Connectivity Centre, Geneva**
     - Group  work
-    - Group presentations: 10 minutes per group
+    - [Group presentations 🔗](https://drive.google.com/drive/folders/1x5zsn6YblZblbynk-MkQg12glIDXLvXv?usp=sharing ): 10 minutes per group
     - End of course evaluation
     - Closing ceremony
 
