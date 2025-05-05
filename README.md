@@ -10,7 +10,7 @@ Training materials for an ITU course provided as part of the following training 
 
 [Applied geospatial tools for school connectivity](https://academy.itu.int/training-courses/full-catalogue/applied-geospatial-tools-school-connectivity), Geneva – Switzerland, 19-24 May 2025
 
-<a><img src="img/output_fp_parintins.png" alt="parintin-fiber-path" border="0" width="50%"></a>
+<a><img src="img/output_fp_parintins.png" alt="parintin-fiber-path" border="0" width="75%"></a>
 
 _Figure: Fiber path analysis in Parintins, Brazil_
 
