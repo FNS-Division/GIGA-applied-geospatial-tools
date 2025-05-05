@@ -1,4 +1,4 @@
-# GIGA-mapping-training
+# GIGA-applied-geospatial-tools
 
 ![Logo](https://www.itu.int/web/pp-18/assets/logo/itu_logo.png)
 
