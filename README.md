@@ -97,7 +97,7 @@ Each source has been chosen to provide reliable, up-to-date information while be
 
 - **Day 4 (22/05): External activities, Geneva and Lausanne**
     - Site visit to Swiss Federal Technology Institute of Lausanne (EPFL) and visit to the Environmental Computational Science and Earth Observation Laboratory and Center for Digital Education and Center for Digital Education
-    - GIGA Open House event for ITU and UNICEF, GIGA Connectivity Centre, Geneva
+    - ITU/UNICEF Staff Reception at Giga Connectivity Centre, GIGA Connectivity Centre, Geneva
 
 - **Day 5 (23/05, half day): Group work, GIGA Connectivity Centre, Geneva**
     - Group  work
