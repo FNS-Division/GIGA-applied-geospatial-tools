@@ -72,7 +72,7 @@ Each source has been chosen to provide reliable, up-to-date information while be
 
 ## Training agenda
 
-- **Day 1: Fundamentals of Geospatial Analysis, GIGA Connectivity Centre, Geneva**
+- **Day 1 (19/05): Fundamentals of Geospatial Analysis, GIGA Connectivity Centre, Geneva**
     - [ICT Infrastructure Business Planning 🔗](https://docs.google.com/presentation/d/1H3zWERvk72W66glb0V19ep3TQGtQM91b/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Learn about business planning tools to evaluate the commercial viability of an ICT infrastructure project. This module shows how GIS tools are useful to extract the information that allows to compute the revenues and costs associated with a product.
     - [Geospatial Data Types 🔗](https://docs.google.com/presentation/d/1Y_Mnvs8Yyxc755EXSoxab7U_WN2-f5av/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Master the fundamentals of vector, raster, and tabular data types, and understand when to use each format.
     - [Projections and Coordinate Systems 🔗](https://docs.google.com/presentation/d/1gIbUrVDLulhT8iG8FI-ff8ybL5rBTqxq/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Learn how to work with different map projections and coordinate systems to ensure accurate spatial analysis.
@@ -82,7 +82,7 @@ Each source has been chosen to provide reliable, up-to-date information while be
     - [Data Standardization 🔗](https://docs.google.com/presentation/d/1_eE5mIsL7Sp-lShgZsCJpoWI0ApiVKKT/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Learn to prepare and clean data according to ITU Data Dictionaries standards using QGIS and SQL, ensuring it's ready for analysis.
 
 
-- **Day 2: Advanced Models and Python Integration, GIGA Connectivity Centre, Geneva**
+- **Day 2 (20/05): Advanced Models and Python Integration, GIGA Connectivity Centre, Geneva**
     - [Proximity Analysis 🔗](https://docs.google.com/presentation/d/11jxyHK-I2zgjyfretfB9Jv1sJIs0bZp0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Calculate distances between Points of Interest and existing infrastructure to help prioritize locations for infrastructure expansion and optimize deployment strategies. Creates graduated symbol maps showing distances to nearest infrastructure.
     - [Coverage Analysis 🔗](https://docs.google.com/presentation/d/16FmvwuCATtca-2qSyeGhmEx6XL4Jfl1B/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Map and analyze the geographic reach of existing mobile networks to identify areas with limited or no coverage. Generate coverage status maps by technology type (3G/4G/5G).
     - [Demand Analysis 🔗](https://docs.google.com/presentation/d/1qg3T9MEQjEa__P9973otMGvuJ3mYywwQ/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Calculate potential internet users and required throughput at each PoI using high-resolution population models that combine satellite imagery with census estimates. Includes analysis of population distribution within various buffer zones.
@@ -91,13 +91,15 @@ Each source has been chosen to provide reliable, up-to-date information while be
     - [Python & Google Colab Introduction 🔗](https://docs.google.com/presentation/d/1LuKPKpebqOtkSR5_4qu0Pq0LE3VEH0Lz/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Learn about the Pros and Cons of using QGIS versus a programmatic approach using Python. Learn about using Google Colab to launch Jupyter notebooks, and discover the main Python libraries for working with geospatial data.
     - [Cost Analysis 🔗](https://docs.google.com/presentation/d/1rcdzljA4PSmP8nWt9wIi5WGbK6oN4HCf/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true) using Jupyter notebook `cost_modelling.ipynb` running on Google Colab. Learn to evaluate different technology options (fiber, cellular, point-to-point and satellite) and optimize deployment costs using microeconomic data. Calculate CapEx, OpEx, and potential revenues for different connectivity solutions.
 
-- **Day 3: Site visit to Swiss Federal Technology Institute of Lausanne (EPFL), Lausanne**
-
-- **Day 4: Group work, GIGA Connectivity Centre, Geneva**
+- **Day 3 (21/05): Group work, GIGA Connectivity Centre, Geneva**
     - [Proposal submission 🔗](https://docs.google.com/document/d/1AoPMfhIKJsJqJiiIF0pZB9o8htWWzjXp0L3uAerMi14/edit?usp=drive_link): small groups (3-4 people) to prepare proposals for group work to be carried out over Days 4 and 5.
     - Group work
 
-- **Day 5 (half-day): Group work, GIGA Connectivity Centre, Geneva**
+- **Day 4 (22/05): External activities, Geneva and Lausanne**
+    - Site visit to Swiss Federal Technology Institute of Lausanne (EPFL) and visit to the Environmental Computational Science and Earth Observation Laboratory and Center for Digital Education and Center for Digital Education
+    - GIGA Open House event for ITU and UNICEF, GIGA Connectivity Centre, Geneva
+
+- **Day 5 (23/05, half day): Group work, GIGA Connectivity Centre, Geneva**
     - Group  work
     - [Group presentations 🔗](https://drive.google.com/drive/folders/1x5zsn6YblZblbynk-MkQg12glIDXLvXv?usp=sharing ): 10 minutes per group
     - End of course evaluation
